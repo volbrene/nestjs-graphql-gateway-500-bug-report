@@ -1,4 +1,4 @@
-# Bug Report for Graphql Gateway Fedeation Interceptor
+# Bug Report for Graphql Gateway Fedeation
 
 ## Gateway:
 
